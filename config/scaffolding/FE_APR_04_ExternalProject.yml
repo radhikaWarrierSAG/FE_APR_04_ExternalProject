@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: FE_APR_04_ExternalProject
+  gitServerName: RawaGit
+  gitUrl: https://github.com/radhikaWarrierSAG/FE_APR_04_ExternalProject
+  gitUsername: radhikaWarrierSAG
+  gitBranch: main
